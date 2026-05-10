@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/amar-ami/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Amar Ami](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/amar-ami/) |
+| **Get License** | [Secure Licensing Rights for Amar Ami](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/amar-ami/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> ভাঙা বুকের খাঁচায় আমার প্রেমের আগুন জ্বলে.. আগুন জ্বলে..
+> তোর ওই চোখের বিষাক্ত বাণ আমার শিরায় চলে
+> অন্ধকারের গভীর নেশায় খুঁজছি তোকে আমি.. খুঁজছি আমি..
+> এই জীবনের চেনা পথে তুই যে বেশি দামি
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
