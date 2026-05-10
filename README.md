@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/amar-ami/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Amar Ami](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/amar-ami/) |
+| **Get License** | [Obtain a Music License for Amar Ami](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/amar-ami/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `e239276e41e815c4baa30ff62ec7546d0271d7bbf19612b76c4a0e891b441ea7` |
 | **Timestamp** | May 10, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

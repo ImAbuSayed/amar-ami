@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Amar Ami
+
+This log tracks the cryptographic history and versioning for the song **Amar Ami** (amar-ami).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-10T09:00:08.460377 | `v1` | `e239276e41e815c4baa30ff62ec7546d0271d7bbf19612b76c4a0e891b441ea7` | `712863eb4937efd5fddc3ecf4c1c692fdd0459c83af25995af3c44510f2279b2` | `2026-05-10_amar-ami-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
